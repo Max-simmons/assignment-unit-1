@@ -1,7 +1,35 @@
 /* Give your page a fun background color */
-
+body{
+    background-color: lightblue
+}
+head{
+    background-color: bisque;
+}
 /* Make the header and footer a different color from the background */
-
+.header{
+    text-align: center;
+    background-color: bisque;
+}
+.Fun-Facts{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightblue;
+}
+img{
+    border: 5px solid; 
+    Width: 400px;
+}
+.Quote{
+    font-style:italic ;
+}
+footer{
+    position:absolute;
+    right:0; left: 0; bottom: 0;
+    text-align: center;
+    background-color: bisque;
+}
+.Quote{
+    background-color: bisque;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
